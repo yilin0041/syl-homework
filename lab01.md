@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 百度网盘如何解决限速
-<font color="#FFFF00" size=3 face="楷体">
 ---
 
 # 百度网盘如何解决限速(干货)
