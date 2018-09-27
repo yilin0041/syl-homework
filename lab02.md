@@ -24,7 +24,6 @@
 ![](images/5.png)
 4. 进行behaviors创建。选择player素材,在properties中add behaviors.(如图添加以下behaviors)
 ![](images/6.png)
-
 同时，我们要对子弹设置Destroy Outside Layout,对爆炸设置Fade，并将其Blend Mode改为Additive（这样爆炸效果不会有黑色阴影）
 5. 添加TEXT。新建一个layer，用其来加入用于显示分数和gameover的对话框。如图设置。选中相应TEXT可以调节成自己喜欢的字体、字号和颜色。
 ![](images/7.png)
@@ -32,9 +31,11 @@
 ![](images/8.png)
 ![](images/9.png)
 * 测试并保存
+
 至此，所有的代码已经编写完毕，排除bug后，我们就可以畅玩我们自己做出来的游戏了。
 
 ![](images/终稿.gif)
 
 * 总结
+
 用construct 2写游戏特别适合像我一样热爱游戏但又知识储备有限的人。它的操作不是特别繁琐，代码理解起来也不是特别困难。其官网上也有大量教程。最后，愿大家都能利用本软件写出自己心仪的游戏。
